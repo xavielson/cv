@@ -16,28 +16,31 @@ hr {
 h1 {
   color: #181D31;
   font-family: 'Architects Daughter';
-  font-size: 45px;
-  margin-top: 0;
+  font-size: 4.4em;
+  line-height: 60%;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
 
+h2 {
+  color: #678983;
+  font-weight: normal;
 }
 
 h3 {
-  color: #181D31;
-
+  color: #678983;
+  font-weight: normal;
 }
+
 p {
   color: #F0E9D2;
 }
 
-div {
-
+a {
+  color: #E6DDC4;
 }
 
 
-.subtitle {
-  padding-bottom: 5px;
-
-}
 
 .top {
   padding-left: 5px;
@@ -46,15 +49,11 @@ div {
 }
 
 .middle {
-  width: 200px;
-  height: 200px;
-  background-color: red;
+
 }
 
 .bottom {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
+
 }
 
 .bottom-cloud {
@@ -63,5 +62,10 @@ div {
 
 .top-cloud {
   margin-left: 400px;
+}
 
+.skill-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
 }
