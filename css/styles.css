@@ -1,23 +1,67 @@
-  body {
-    background-color: #F0E9D2;
-  }
+body {
+  background-color: #181D31;
+  font-family: 'Roboto Slab';
+  margin: 0;
+  text-align: center;
+}
 
-  hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 5px;
-    width: 5%;
-  }
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
 
-  h1 {
-    color: #181D31;
-  }
+h1 {
+  color: #181D31;
+  font-family: 'Architects Daughter';
+  font-size: 45px;
+  margin-top: 0;
 
-  h3 {
-    color: #181D31;
+}
 
-  }
-  p {
-    color: #678983;
-  }
+h3 {
+  color: #181D31;
+
+}
+p {
+  color: #F0E9D2;
+}
+
+div {
+
+}
+
+
+.subtitle {
+  padding-bottom: 5px;
+
+}
+
+.top {
+  padding-left: 5px;
+  padding-top: 100px;
+  background-color: #678983;
+}
+
+.middle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.bottom {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  margin-left: 400px;
+
+}
