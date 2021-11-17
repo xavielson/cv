@@ -107,6 +107,12 @@ a:hover {
   margin-left: 400px;
 }
 
+.sig {
+  font-size: 60%;
+  padding-top: 20px;
+  color: #181D31;
+}
+
 .skill-img-1 {
   width: 180px;
   height: 180px;
